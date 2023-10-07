@@ -4,8 +4,8 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '3.2.2'
 
 # Rails and Web Server
-gem 'rails', '~> 7.0.7', '>= 7.0.7.2'
 gem 'puma', '~> 5.0'
+gem 'rails', '~> 7.0.7', '>= 7.0.7.2'
 
 # Asset Pipeline
 gem 'sprockets-rails'
@@ -15,25 +15,25 @@ gem 'pg', '~> 1.1'
 
 # JavaScript and Frontend
 gem 'importmap-rails'
-gem 'turbo-rails'
-gem 'stimulus-rails'
 gem 'jbuilder'
+gem 'stimulus-rails'
+gem 'turbo-rails'
 
 # Background Jobs (if needed)
 # gem 'sidekiq'
 
 # Authentication and Authorization
-gem 'devise'
 gem 'cancancan'
+gem 'devise'
 
 # Testing
 group :development, :test do
-  gem 'rspec-rails'
-  gem 'web-console'
   gem 'capybara'
-  gem 'selenium-webdriver'
-  gem 'webdrivers'
+  gem 'rspec-rails'
   gem 'rubocop', '>= 1.0', '< 2.0'
+  gem 'selenium-webdriver'
+  gem 'web-console'
+  gem 'webdrivers'
 end
 
 # Development and Debugging

@@ -67,12 +67,12 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[Live Demo] (https://budget-6kb3.onrender.com)
+[Live Demo] (https://mybudgetapp-u04z.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Project Presentation <a name="Presentation"></a>
-[Presentation] (https://www.loom.com/share/08f29f9850684fc8879275973c97a76e)
+[Presentation] (https://www.loom.com/share/c4ab41a00dc346baaa952dc1b9974280)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
